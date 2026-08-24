@@ -1,0 +1,17 @@
+html {
+    background-color: #ee7818;
+}
+
+p{
+    color: #207e0f
+}
+.titleone {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 100px;
+}
+.titletwo {
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+}
