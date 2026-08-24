@@ -2,6 +2,10 @@ html {
     background-color: #766556;
 }
 
+body{
+    margin: 0;
+}
+
 p{
     color: #a5e6f2;
 }
@@ -15,8 +19,17 @@ p{
     font-size: 70px;
     font-style: italic;
 }
+.LinkTree {
+    text-align: center;
+    font-size: 50px;
+}
 .grgr{
     width: 300px;
     display: block;
     margin: 0 auto;
+}
+#home{
+    background-color: #a5e6f2;
+    height: 100px;
+    width: 100%;
 }
