@@ -23,10 +23,24 @@ p{
     text-align: center;
     font-size: 50px;
 }
-.grgr{
-    width: 300px;
-    display: block;
-    margin: 0 auto;
+
+img{
+    width : 100%;
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding : 5px;
 }
 #home{
     background-color: #a5e6f2;
